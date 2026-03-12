@@ -34,8 +34,6 @@
 <span title="GitHub"><img align="left" alt="GitHubWorkspace" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"/></span>
 <br />
           
-[![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)]
-[![Stars]([https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg))]
 #
 
 <!--
