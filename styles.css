@@ -10,7 +10,7 @@ html[data-theme="light"] {
 /* html[data-theme="light"] .icon, .icon-tool{
     filter: brightness(0) saturate(100%) invert(2%) sepia(2%) saturate(494%) hue-rotate(314deg) brightness(96%) contrast(84%);
 } */
-html[data-theme="light"] {
+html[data-theme="dark"] {
   --bg: #121212;
   --text: #f2f2f2;
   --accent: #4da3ff; /* bright blue, visible in dark mode */
@@ -37,8 +37,12 @@ html[data-theme="cb-safe"] {
 
 
 body {
-    background: var(--bg);
+  background: var(--bg);
   font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+#about_md{
+  color:rgb(80, 80, 80);
+  margin-bottom: -2px;
 }
 /* ################################# IDs ################################# */
 #hero {
@@ -121,7 +125,7 @@ body {
             margin-bottom: -20px;
         }
     }
-    .hero-image-placeholder {
+    .hero-image-placeholder { /* DarkBlue Square */
     width: 120px;
     height: 120px;
     border-radius: 30%;
@@ -131,7 +135,7 @@ body {
     margin: 50px 100px;
     z-index: 3;
     }
-    .hero-image-placeholder2 {
+    .hero-image-placeholder2 {/* LightBlue Circle */
     width: 220px;
     height: 220px;
     border-radius: 100%;
