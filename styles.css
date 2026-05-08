@@ -49,7 +49,7 @@ body {
   background: var(--bg);
   font-family: 'Atkinson Hyperlegible', sans-serif;
 }
-#about_md{
+#soft_text{
   color:rgb(80, 80, 80);
   margin-bottom: -2px;
 }
@@ -179,6 +179,25 @@ body {
     min-height: 120px; 
     max-height: 160px; 
 }
+kbd{font-size: 12px;}
+.text-html{
+  background-color: #E44D26;
+}
+.text-css{
+  background-color: #1572B6;
+}
+.text-js{
+  background-color: #d6c346;
+}
+.text-ts{
+  background-color: #007acc;
+}
+.text-kotlin{
+  background-color: #c711e1;
+}
+.text-ktor{
+  background-color: #fc801d;
+}
 .skill-card {
   background-color: var(--surface);
   border-radius: 12px;
@@ -193,8 +212,21 @@ body {
   transform: translateY(-1px);
   border-color: var(--accent);
 }
+.image {
+  display: inline-block;
+  /* object-fit: cover;   */
+  width: 150px;
+}
 .skill-card h5 {
   color: var(--accent);
+}
+.btn_text{
+  background-color: color-mix(in srgb, var(--accent) 50%, #0dcaf0);
+  color: var(--surface);
+}
+.btn_text:hover{
+  background-color: color-mix(in srgb, var(--accent) 50%, #012e37);
+  color: var(--surface);
 }
 .skill-card ul li {
   margin-bottom: 0.4rem;
@@ -215,9 +247,6 @@ body {
 .contact-link:hover {
   text-decoration: underline;
 }
-
-
-
 .floating-links {
   position: fixed;
   opacity: 0.75;
