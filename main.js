@@ -1,4 +1,5 @@
- <script>
+/*
+<script>
     const words = [
       'skills',
       'projects',
@@ -13,3 +14,4 @@
       el.textContent = words[index];
     }, 2000); // change every 2 seconds
   </script>
+*/
