@@ -34,8 +34,17 @@ html[data-theme="cb-safe"] {
 /*  Egyptian Purple #52278A Arianna #7850A8 Cold Purple #AE98D7
     Light Gray #D5D5D5 Silver Coin #BABABA and Neutral Grey #838383 
 */
-
-
+/* heto text animation */
+#rotating-word {
+  display: inline-block;
+  transform: translateY(20px);
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+#rotating-word.show {
+  transform: translateY(0);
+  opacity: 1;
+}
 body {
   background: var(--bg);
   font-family: 'Atkinson Hyperlegible', sans-serif;
