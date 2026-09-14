@@ -2,14 +2,14 @@
 
 **`Creative Engineer (Developer/3D Artist/Creator)`**
 
-<p>Hi there 👋 I'm a Self-Learned programmer passionate about where tech meets art.I'm an indie full-stack developer exploring the intersection of code and creativity. I build projects from scratch—whether it's a retro arcade game, a browser extension, or a portfolio site—using HTML, CSS, Python, and Flask. My work blends design and functionality, and I share my progress on ArtStation and Instagram. Always learning, always building</p>
+<p>Hi there 👋 I'm a Self-Learned programmer passionate about where tech meets art. I'm an indie full-stack developer exploring the intersection of code and creativity. I build projects from scratch—whether it's a retro arcade game, a browser extension, or a portfolio site—using HTML, CSS, JavaScript/TypeScript Python, and Flask. My work blends design and functionality, and I share my progress on ArtStation and Instagram. Always learning, always building</p>
 <em>Why the 'blacteddy' <b>?</b></em>
 <br><span>&emsp;&#8627;The Blacteddy represents my art and and I want the name to represent not only me as an Artist also a Software Engineer</span>
 
 ---
 
 #### 🧰 Languages and Tools
-<span title="HTML"><img align="left" alt="HTML" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/></span>
+<span title="HTML"><img align="left" alt="HTML" width="30px" height="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/></span>
 <span title="CSS"><img align="left" alt="CSS" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/></span>
 <span title="JavaScript"><img align="left" alt="JavaScript" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></span>
 
